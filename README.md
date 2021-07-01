@@ -1,7 +1,7 @@
 # Uber Fare Prediction Analysis
 UBER DATA ANALYSIS TO PREDICT THE PRICE.
 
-Here I’m going to use jupyter notebook for the execution of this project and it will be coded in python programming language. The python libraries which are used below:
+### Here I’m going to use jupyter notebook for the execution of this project and it will be coded in python programming language. The python libraries which are used below:
     • Numpy- For the computation and processing of the multidimensional and single dimensional array elements.
     • Pandas - For data cleaning, manipulations and analysis.
     • Seaborn & Plotly- for data visualization.
